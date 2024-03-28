@@ -9,7 +9,7 @@ _AWS Lambda_ - AWS Lambda is used for serverless computing, enabling the executi
 
 _Amazon Translate_ -  Amazon Translate is a neural machine translation service that provides fast and accurate translation of text between languages. It is utilized by the translation bot to perform language translation based on user input.
 
-_AWS IAM_ (Identity and Access Management): AWS IAM is employed to manage access to AWS services securely. IAM roles and policies are defined to ensure that the translation bot has the necessary permissions to interact with other AWS services while adhering to the principle of least privilege.
+_AWS IAM_ (Identity and Access Management) - AWS IAM is employed to manage access to AWS services securely. IAM roles and policies are defined to ensure that the translation bot has the necessary permissions to interact with other AWS services while adhering to the principle of least privilege.
 
 
 <img width="873" alt="Screenshot 2024-03-28 at 12 08 44" src="https://github.com/mohsn13/Translation-Bot-Amazon-Lex/assets/157317409/635d4c44-3832-4c3d-a9c6-fb7fb534d666">
