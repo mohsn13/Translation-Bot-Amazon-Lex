@@ -1,4 +1,6 @@
-**In this project, I built a language translation bot using Amazon Lex.**
+# Translation Bot Created Using Amazon Lex
+
+In this project, I built a language translation bot using Amazon Lex.
 
 The language translation bot developed using AWS services such as - 
 
